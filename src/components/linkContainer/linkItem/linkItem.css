@@ -1,0 +1,19 @@
+.linkItem {
+  background-color: rgb(66, 66, 66);
+  color: white;
+  padding: 5px 10px;
+  margin: 10px;
+}
+
+.linkItem:active {
+  background-color: white;
+  color: rgb(66, 66, 66);
+  padding: 5px 10px;
+  margin: 10px;
+  cursor: pointer;
+  border: 2px solid rgb(66, 66, 66);
+}
+
+.linkItem:hover {
+  cursor: pointer;
+}
