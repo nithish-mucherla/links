@@ -15,6 +15,10 @@ function LinkContainer() {
       text: "Notes App",
       link: "https://nithishmucherla.tech/notes",
     },
+    {
+      text: "typeIt- typing speed test app",
+      link: "https://nithishmucherla.tech/typeIt",
+    },
   ];
   return (
     <div className="container column center">
