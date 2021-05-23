@@ -5,19 +5,19 @@ function LinkContainer() {
   const links = [
     {
       text: `click to - 'Opiniate': share your thoughts anonymously!`,
-      link: "https://nithishmucherla.tech/Opiniate",
+      link: "https://www.nithishmucherla.tech/Opiniate",
     },
     {
       text: "Portfolio",
-      link: "https://nithishmucherla.tech",
+      link: "https://www.nithishmucherla.tech",
     },
     {
       text: "Notes App",
-      link: "https://nithishmucherla.tech/notes",
+      link: "https://www.nithishmucherla.tech/notes",
     },
     {
       text: "typeIt- typing speed test app",
-      link: "https://nithishmucherla.tech/typeIt",
+      link: "https://www.nithishmucherla.tech/typeIt",
     },
   ];
   return (
